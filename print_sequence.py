@@ -6,5 +6,4 @@ def print_sequence(n):
     print(sequence[:n])
 
 
-n = int(input('Введите количество элементов последовательности: '))
-print_sequence(n)
+print_sequence(100)
