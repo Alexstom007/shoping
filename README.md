@@ -31,7 +31,7 @@ SECRET_KEY='Секретный ключ'
 ```
 Выполнить миграции:
 ```
-cd backend && python manage.py migrate
+python manage.py migrate
 ```
 Создать суперпользователя:
 ```
